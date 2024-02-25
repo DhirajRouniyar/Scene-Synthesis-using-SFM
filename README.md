@@ -15,7 +15,7 @@ Bundle Adjustment
 ![alt text](https://github.com/DhirajRouniyar/Scene-Synthesis-using-SFM/blob/main/Images/pipeline.png)
 
 # Results
-
+![alt text](https://github.com/DhirajRouniyar/Scene-Synthesis-using-SFM/blob/main/Images/Results.png)
 
 # How to run the code
 Run Wrapper.py 

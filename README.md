@@ -12,6 +12,10 @@ Linear PnP, RANSAC and Non linear optimization
 Bundle Adjustment
 
 # Pipeline
+![alt text](https://github.com/DhirajRouniyar/Scene-Synthesis-using-SFM/blob/main/Images/pipeline.png)
+
+# Results
+
 
 # How to run the code
 Run Wrapper.py 
